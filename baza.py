@@ -2,7 +2,7 @@ import os
 from urllib import parse
 import psycopg2
 
-DATABASE_URL = "postgres://postgres:geslo@localhost:5432/vislice"
+DATABASE_URL = "postgres://postgres:asuna@localhost:5432/vislice"
 
 
 def naredi_povezavo():
